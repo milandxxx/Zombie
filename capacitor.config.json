@@ -1,0 +1,6 @@
+{
+  "appId": "com.crazyzombie.game",
+  "appName": "Crazy Zombie",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
